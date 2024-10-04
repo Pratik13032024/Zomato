@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='RegressorProject',
+    name='Zomato',
     version='0.0.1',
     author='Pratik',
     author_email='dombale22@gmail.com',
